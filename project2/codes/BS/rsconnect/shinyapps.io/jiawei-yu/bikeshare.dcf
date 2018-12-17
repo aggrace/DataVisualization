@@ -1,0 +1,12 @@
+name: bikeshare
+title: BikeShare
+username:
+account: jiawei-yu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 599699
+bundleId: 1741509
+url: https://jiawei-yu.shinyapps.io/bikeshare/
+when: 1543987863.03433
+asMultiple: FALSE
+asStatic: FALSE
