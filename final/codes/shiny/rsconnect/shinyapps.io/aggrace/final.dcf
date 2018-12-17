@@ -1,0 +1,13 @@
+name: final
+title: final
+username:
+account: aggrace
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 609194
+bundleId: 1749150
+url: https://aggrace.shinyapps.io/final/
+when: 1544242986.80857
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: reduced.csv|data/beijing2.csv
